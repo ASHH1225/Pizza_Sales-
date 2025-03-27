@@ -1,6 +1,8 @@
 # Pizza_Sales-
 This project analyzes pizza sales data using SQL queries to answer various key business questions and provide valuable insights.
 
+Tools Used: My SQL
+
 List of Questions :
 1. Retrieve the total number of orders placed.
 2. Calculate the total revenue generated from pizza sales.
